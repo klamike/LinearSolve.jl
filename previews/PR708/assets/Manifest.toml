@@ -965,7 +965,7 @@ version = "1.11.0"
 
 [[deps.LinearSolve]]
 deps = ["ArrayInterface", "ChainRulesCore", "ConcreteStructs", "DocStringExtensions", "EnumX", "GPUArraysCore", "InteractiveUtils", "Krylov", "LazyArrays", "Libdl", "LinearAlgebra", "MKL_jll", "Markdown", "PrecompileTools", "Preferences", "RecursiveArrayTools", "Reexport", "SciMLBase", "SciMLOperators", "Setfield", "StaticArraysCore", "UnPack"]
-path = "/home/runner/work/LinearSolve.jl/LinearSolve.jl"
+path = "/home/chrisrackauckas/github-runners/deepsea4-7/_work/LinearSolve.jl/LinearSolve.jl"
 uuid = "7ed4a6bd-45f5-4d41-b270-4a48e9bafcae"
 version = "3.27.1"
 
@@ -1016,9 +1016,9 @@ version = "3.27.1"
 
 [[deps.LinearSolveAutotune]]
 deps = ["Base64", "BenchmarkTools", "CPUSummary", "CUDA", "DataFrames", "Dates", "GitHub", "LAPACK_jll", "LinearAlgebra", "LinearSolve", "MKL_jll", "Metal", "Pkg", "Plots", "Preferences", "PrettyTables", "Printf", "ProgressMeter", "Random", "RecursiveFactorization", "Statistics", "Test", "blis_jll", "gh_cli_jll"]
-git-tree-sha1 = "7cd7b49b2cdc6df5ae35b8118b4a6aaedf540347"
+git-tree-sha1 = "8023048c36c2699ff40e0307492271b10f6cf06f"
 uuid = "67398393-80e8-4254-b7e4-1b9a36a3c5b6"
-version = "1.3.0"
+version = "1.3.1"
 
 [[deps.LogExpFunctions]]
 deps = ["DocStringExtensions", "IrrationalConstants", "LinearAlgebra"]
